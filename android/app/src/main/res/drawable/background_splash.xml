@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/white"/>
+
+    <item
+        android:width="187dp"
+        android:height="23dp"
+        android:drawable="@mipmap/icon_logo_elite"
+        android:top="144dp"
+        android:gravity="center_horizontal"/>
+
+    <!--item
+        android:width="77dp"
+        android:height="77dp"
+        android:drawable="@mipmap/ic_launcher"
+        android:top="157dp"
+        android:gravity="center_horizontal"/-->
+
+</layer-list>

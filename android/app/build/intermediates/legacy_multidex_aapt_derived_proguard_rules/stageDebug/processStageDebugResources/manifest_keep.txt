@@ -1,0 +1,4 @@
+# Referenced at /Users/sds-dinpanshu.j/Documents/React-native-workspace/elite-plus-app/android/app/build/intermediates/merged_manifests/stageDebug/AndroidManifest.xml:28
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/sds-dinpanshu.j/Documents/React-native-workspace/elite-plus-app/android/app/build/intermediates/merged_manifests/stageDebug/AndroidManifest.xml:28
+-keep class com.samsung.carrier.elite.MainApplication { <init>(); }

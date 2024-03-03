@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sds-dinpanshu.j/Documents/React-native-workspace/elite-plus-app/android/app/build/intermediates/incremental/mergeStageDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/sds-dinpanshu.j/.gradle/caches/transforms-2/files-2.1/77eb8b6bbfd88238509dc8cfdfcabf84/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,170,226,293,358,413,478,547",
+                        "endColumns": "58,55,55,66,64,54,64,68,68",
+                        "endOffsets": "109,165,221,288,353,408,473,542,611"
+                    }
+                }
+            ]
+        }
+    ]
+}

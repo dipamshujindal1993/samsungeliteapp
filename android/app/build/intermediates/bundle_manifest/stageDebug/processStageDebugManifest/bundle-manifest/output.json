@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":30018,"versionName":"3.0.18-Stage","enabled":true,"outputFile":"app-stage-debug.apk","fullName":"stageDebug","baseName":"stage-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.samsung.carrier.elite","split":"","minSdkVersion":"16"}}]

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "630765790554",
+    "firebase_url": "https://proelite-dev.firebaseio.com",
+    "project_id": "proelite-dev",
+    "storage_bucket": "proelite-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630765790554:android:1139513c769960f8",
+        "android_client_info": {
+          "package_name": "com.samsung.carrier.elite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630765790554-7h7f9kn4547os73vktf7qrdff3d7l6v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxK_IFdXHnrXGj8z1xBMXq5m1l6mqBfi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
