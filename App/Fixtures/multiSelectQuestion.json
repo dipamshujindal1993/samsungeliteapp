@@ -1,0 +1,46 @@
+{
+    "questionID": "42030",
+    "questionText": "what do you plan to do this year?",
+    "questionTextWithFormat": "what do you plan to do this year?",
+    "questionType": "MultipleSelect",
+    "questionSequenceId": "3",
+    "isMandatory": false,
+    "questionFeedback": "",
+    "isAnswered": false,
+    "options": [
+        {
+            "answerID": [
+                "1"
+            ],
+            "answerText": [
+                "work more"
+            ],
+            "matchAnswerID": null,
+            "matchAnswerText": null,
+            "feedback": ""
+        },
+        {
+            "answerID": [
+                "2"
+            ],
+            "answerText": [
+                "use all available PTO"
+            ],
+            "matchAnswerID": null,
+            "matchAnswerText": null,
+            "feedback": ""
+        },
+        {
+            "answerID": [
+                "3"
+            ],
+            "answerText": [
+                "be more effective"
+            ],
+            "matchAnswerID": null,
+            "matchAnswerText": null,
+            "feedback": ""
+        }
+    ],
+    "learnerAnswer": null
+}

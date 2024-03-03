@@ -1,0 +1,79 @@
+{
+  "pagination": {
+    "offset": 0,
+    "limit": 10,
+    "total": 25
+  },
+  "data": [
+    {
+      "bannerName": "SEA Test Banner 1",
+      "bannerDescription": "Open WebView",
+      "category": "None",
+      "bannerLink": "elite_plus://openwebview#url=https://facebook.github.io/react-native/docs/scrollview",
+      "bannerimageUrl": "http://samsungtest.sumtotaldevelopment.net/core/DataStore/AU05_SAMSUNG_TEST/Common/BannerFileAssets/605b3e5d341f4ce0a2a0eab125a9e033.jpg"
+    },
+    {
+      "bannerName": "SEA Test Banner 2",
+      "bannerDescription": "Open http link",
+      "category": "None",
+      "bannerLink": "http://facebook.github.io/react-native/docs/scrollview",
+      "bannerimageUrl": "http://samsungtest.sumtotaldevelopment.net/core/DataStore/AU05_SAMSUNG_TEST/Common/BannerFileAssets/e3bea3769d2a4bb4b0ba13dbb418d251.jpg"
+    },
+    {
+      "bannerName": "SEA Test Banner 3",
+      "bannerDescription": "Open https link",
+      "category": "None",
+      "bannerLink": "https://facebook.github.io/react-native/docs/scrollview",
+      "bannerimageUrl": "http://samsungtest.sumtotaldevelopment.net/core/DataStore/AU05_SAMSUNG_TEST/Common/BannerFileAssets/605b3e5d341f4ce0a2a0eab125a9e033.jpg"
+    },
+    {
+      "bannerName": "SEA Test Banner 4",
+      "bannerDescription": "Open external link",
+      "category": "None",
+      "bannerLink": "elite_plus://openexternal#url=https://facebook.github.io/react-native/docs/scrollview",
+      "bannerimageUrl": "http://samsungtest.sumtotaldevelopment.net/core/DataStore/AU05_SAMSUNG_TEST/Common/BannerFileAssets/605b3e5d341f4ce0a2a0eab125a9e033.jpg"
+    },
+    {
+      "bannerName": "SEA Test Banner 5",
+      "bannerDescription": "Open Help screen",
+      "category": "None",
+      "bannerLink": "elite_plus://open#screen=Help",
+      "bannerimageUrl": "http://samsungtest.sumtotaldevelopment.net/core/DataStore/AU05_SAMSUNG_TEST/Common/BannerFileAssets/605b3e5d341f4ce0a2a0eab125a9e033.jpg"
+    },
+    {
+      "bannerName": "SEA Test Banner 6",
+      "bannerDescription": "Open Leaderboard screen",
+      "category": "None",
+      "bannerLink": "elite_plus://open#screen=LeaderboardScreen",
+      "bannerimageUrl": "http://samsungtest.sumtotaldevelopment.net/core/DataStore/AU05_SAMSUNG_TEST/Common/BannerFileAssets/605b3e5d341f4ce0a2a0eab125a9e033.jpg"
+    },
+    {
+      "bannerName": "SEA Test Banner 7",
+      "bannerDescription": "Open Learn tab",
+      "category": "None",
+      "bannerLink": "elite_plus://open#screen=LearnTab",
+      "bannerimageUrl": "http://samsungtest.sumtotaldevelopment.net/core/DataStore/AU05_SAMSUNG_TEST/Common/BannerFileAssets/605b3e5d341f4ce0a2a0eab125a9e033.jpg"
+    },
+    {
+      "bannerName": "SEA Test Banner 8",
+      "bannerDescription": "Open Rewards tab",
+      "category": "None",
+      "bannerLink": "elite_plus://open#screen=RewardsTab",
+      "bannerimageUrl": "http://samsungtest.sumtotaldevelopment.net/core/DataStore/AU05_SAMSUNG_TEST/Common/BannerFileAssets/605b3e5d341f4ce0a2a0eab125a9e033.jpg"
+    },
+    {
+      "bannerName": "SEA Test Banner 9",
+      "bannerDescription": "Open Community tab",
+      "category": "None",
+      "bannerLink": "elite_plus://open#screen=CommunityTab",
+      "bannerimageUrl": "http://samsungtest.sumtotaldevelopment.net/core/DataStore/AU05_SAMSUNG_TEST/Common/BannerFileAssets/605b3e5d341f4ce0a2a0eab125a9e033.jpg"
+    },
+    {
+      "bannerName": "SEA Test Banner 10",
+      "bannerDescription": "Open Home tab",
+      "category": "None",
+      "bannerLink": "elite_plus://open#screen=HomeTab",
+      "bannerimageUrl": "http://samsungtest.sumtotaldevelopment.net/core/DataStore/AU05_SAMSUNG_TEST/Common/BannerFileAssets/605b3e5d341f4ce0a2a0eab125a9e033.jpg"
+    }
+  ]
+}

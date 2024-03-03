@@ -1,0 +1,109 @@
+{
+    "offset": 0,
+    "activityLimit": 2,
+    "rootTopicId": 4258,
+    "rootTopicName": "Resources",
+    "totalSubtopics": 2,
+    "topicActivities": [
+        {
+            "topicId": 4266,
+            "topicName": "S10",
+            "totalActivities": 2,
+            "lastUpdated": "2020-01-08T23:07:55",
+            "activities": [
+                {
+                    "activityId": 37361,
+                    "activityImage": null,
+                    "activityName": "SEA Test MP4 Video 1",
+                    "activityDescription": "this is description for test mp4 video",
+                    "activityType": "Video",
+                    "duration": null,
+                    "mediaType": null,
+                    "releaseDate": null,
+                    "startDate": null,
+                    "endDate": null,
+                    "activityCode": "SEATestMP4Video1",
+                    "contentType": null,
+                    "isMobileEnabled": true,
+                    "topics": [
+                        "S10"
+                    ],
+                    "cbtPath": "/learning/DataStore/SAMG_TEST/Learning/data/20200109_041321_3035/2018_12_07_13_52_58.mp4",
+                    "isFavorite": false,
+                    "parentActivityName": null,
+                    "parentActivityId": null,
+                    "rootActivityId": 37361,
+                    "ratingValue": "0.0",
+                    "isRegistered": false,
+                    "status": "Not Registered",
+                    "isCompleted": false,
+                    "launchUrl": "https://samsung20102.test.sumtotallab.host/learning/app/management/LMS_CNT_SilentLaunch.aspx?ActivityID=37361"
+                },
+                {
+                    "activityId": 37356,
+                    "activityImage": "https://samsung20102.test.sumtotallab.host/learning/DataStore/SAMSUNG20102_TEST/learning/data/images/9894eefb-897c-4d1f-85d5-f0d5c2f0b5d6.jpg",
+                    "activityName": "Test article 1",
+                    "activityDescription": "this is description for test article1",
+                    "activityType": "Article",
+                    "duration": null,
+                    "mediaType": null,
+                    "releaseDate": null,
+                    "startDate": null,
+                    "endDate": null,
+                    "activityCode": "SEATestarticle1",
+                    "contentType": null,
+                    "isMobileEnabled": true,
+                    "topics": [
+                        "S10"
+                    ],
+                    "cbtPath": "/learning/DataStore/SAMG_TEST/Learning/data/20191226_054418_7659/SumTotal Suite 19.3 Compatibility Matrix and Client Requirements.pdf",
+                    "isFavorite": false,
+                    "parentActivityName": null,
+                    "parentActivityId": null,
+                    "rootActivityId": 37356,
+                    "ratingValue": "0.0",
+                    "isRegistered": false,
+                    "status": "Not Registered",
+                    "isCompleted": false,
+                    "launchUrl": "https://samsung20102.test.sumtotallab.host/learning/app/management/LMS_CNT_SilentLaunch.aspx?ActivityID=37356"
+                }
+            ]
+        },
+        {
+            "topicId": 4267,
+            "topicName": "Note 10",
+            "totalActivities": 1,
+            "lastUpdated": "2020-01-08T23:09:37",
+            "activities": [
+                {
+                    "activityId": 37360,
+                    "activityImage": null,
+                    "activityName": "test promo 1",
+                    "activityDescription": "this is description for test promo 1",
+                    "activityType": "Promo",
+                    "duration": null,
+                    "mediaType": null,
+                    "releaseDate": null,
+                    "startDate": null,
+                    "endDate": null,
+                    "activityCode": "SEAtestpromo1",
+                    "contentType": null,
+                    "isMobileEnabled": true,
+                    "topics": [
+                        "Note 10"
+                    ],
+                    "cbtPath": "/learning/DataStore/SAMG_TEST/Learning/data/20191226_055347_9093/AnnouncementTile_SpotRewardsImage.jpg",
+                    "isFavorite": false,
+                    "parentActivityName": null,
+                    "parentActivityId": null,
+                    "rootActivityId": 37360,
+                    "ratingValue": "0.0",
+                    "isRegistered": false,
+                    "status": "Not Registered",
+                    "isCompleted": false,
+                    "launchUrl": "https://samsung20102.test.sumtotallab.host/learning/app/management/LMS_CNT_SilentLaunch.aspx?ActivityID=37360"
+                }
+            ]
+        }
+    ]
+}

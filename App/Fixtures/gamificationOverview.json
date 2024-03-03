@@ -1,0 +1,44 @@
+{
+    "userId": "620736",
+    "personFullName": "Elite04 Tester",
+    "personPosition": "",
+    "personImage": null,
+    "userCulture": "en-us",
+    "totalPoints": 0,
+    "lastTransactionDate": null,
+    "level": {
+        "currentLevel": {
+            "name": "Novice",
+            "description": "Congratulations, Newbie! You are finally getting your feet wet.",
+            "pointValue": 0,
+            "cultureCode": "en-us",
+            "translationId": "1"
+        },
+        "nextLevel": {
+            "name": "Advanced Beginner",
+            "description": "Great Job! You aren't on the bottom level any more.",
+            "pointValue": 50,
+            "cultureCode": "en-us",
+            "translationId": "2"
+        }
+    },
+    "badges": [
+        {
+            "name": "sea test vadge 1",
+            "image": "https://samsung20102.test.sumtotallab.host/core/DataStore/SAMSUNG20102_TEST/Common/FileAssets/da2403b7b735427f8fea852c409e6d8d.jpg",
+            "translationId": "5e375c927e39a40ea01fe500",
+            "points": 0,
+            "unlocked": false
+        },
+        {
+            "name": "sea test badge 2",
+            "image": null,
+            "translationId": "5e375d097e39a40ea01fe501",
+            "points": 0,
+            "unlocked": false
+        }
+    ],
+    "lmPoints": 0,
+    "tmPoints": 0,
+    "buddies": []
+}

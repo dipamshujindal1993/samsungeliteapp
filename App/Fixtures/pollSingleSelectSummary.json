@@ -1,0 +1,25 @@
+{
+    "pollId": 37372,
+    "totalResponses": 1,
+    "questions": [
+        {
+            "questionId": 42020,
+            "questionText": "did you like the course?",
+            "questionTextWithFormat": "did you like the course?",
+            "questionType": "MultipleChoice",
+            "isMandatory": false,
+            "answers": [
+                {
+                    "answerId": 1,
+                    "answerText": "yes",
+                    "count": 1
+                },
+                {
+                    "answerId": 2,
+                    "answerText": "no",
+                    "count": 0
+                }
+            ]
+        }
+    ]
+}

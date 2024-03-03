@@ -1,0 +1,38 @@
+{ 
+    "pagination": {
+        "page": 0,
+        "pageSize": 0,
+        "totalCount": 0,
+        "totalPageCount": 0
+    },
+    "content": [
+        {
+            "timestamp": "2020-03-01T09:07:21-07:00",
+            "statusText": "IMEI match"
+        },
+        {
+            "timestamp": "2020-02-05T09:02:21-07:00",
+            "statusText": "IMEI match but not Primary Device"
+        },
+        {
+            "timestamp": "2020-01-23T09:11:21-07:00",
+            "statusText": "IMEI doesn’t match but appears to be correct device"
+        },
+        {
+            "timestamp": "2019-12-12T09:07:21-07:00",
+            "statusText": "Phone reported as lost/stolen"
+        },
+        {
+            "timestamp": "2019-11-15T09:12:21-07:00",
+            "statusText": "Phone Not Available - reported as damaged/broken"
+        },
+        {
+            "timestamp": "2019-10-22T09:08:21-07:00",
+            "statusText": "IMEI match"
+        },
+        {
+            "timestamp": "2019-09-20T09:07:21-07:00",
+            "statusText": "IMEI match but not primary device"
+        }
+    ]
+}

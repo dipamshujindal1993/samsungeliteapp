@@ -1,0 +1,49 @@
+{
+    "Id": 0,
+    "Name": "Sam Lee",
+    "Phone": "1234323444",
+    "Email": "selvan@mail.com",
+    "Location": "string",
+    "Persona": "string",
+    "Channel": "string",
+    "interestedProducts": [
+      "S20",
+      "Note 10"
+    ],
+    "AssignedUserId": 0,
+    "IsActive": true,
+    "UniqueId": "string",
+    "UserOptIn": true,
+    "VisitorID": "string",
+    "VisitID": "string",
+    "promotion": {
+      "Id": 0,
+      "Name": "Get $100 off & youTube Premium by upgrading a Galaxy Device",
+      "Description": "Happy Galaxy Day"
+    },
+    "LeadHistory": [
+      {
+        "Id": 0,
+        "LeadId": 0,
+        "LeadStatusId": 0,
+        "UpdateDate": "2020-04-09T14:37:53.632Z",
+        "RelativeDate": "string",
+        "UpdateUserId": 0,
+        "Note": "string",
+        "ResolutionId": 0,
+        "ProductsSold": [
+          {
+            "Category": "string",
+            "Quantity": 0
+          }
+        ],
+        "IsActive": true
+      }
+    ],
+    "learningContent": [
+      {
+        "Title": "string",
+        "Link": "string"
+      }
+    ]
+  }

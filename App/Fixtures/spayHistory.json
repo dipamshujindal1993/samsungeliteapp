@@ -1,0 +1,79 @@
+{
+  "pagination": {
+    "page": 1,
+    "pageSize": 10,
+    "totalCount": 3,
+    "totalPageCount": 1
+  },
+  "content": [
+    {
+      "samsungPayHistoryId": 1,
+      "transactionId": "string",
+      "code": {
+        "id": "string",
+        "href": "string",
+        "program": "string",
+        "partnerId": "string",
+        "type": "string",
+        "length": 0,
+        "userInfo": "string",
+        "value": "string",
+        "createdAt": 0,
+        "updatedAt": 0
+      },
+      "type": "string",
+      "isValid": true,
+      "reasonCode": "string",
+      "userId": "string",
+      "deviceId": "string",
+      "deviceModel": "string",
+      "deviceMNO": "string"
+    },
+    {
+      "samsungPayHistoryId": 2,
+      "transactionId": "string",
+      "code": {
+        "id": "string",
+        "href": "string",
+        "program": "string",
+        "partnerId": "string",
+        "type": "string",
+        "length": 0,
+        "userInfo": "string",
+        "value": "string",
+        "createdAt": 0,
+        "updatedAt": 0
+      },
+      "type": "string",
+      "isValid": true,
+      "reasonCode": "string",
+      "userId": "string",
+      "deviceId": "string",
+      "deviceModel": "string",
+      "deviceMNO": "string"
+    },
+    {
+      "samsungPayHistoryId": 3,
+      "transactionId": "string",
+      "code": {
+        "id": "string",
+        "href": "string",
+        "program": "string",
+        "partnerId": "string",
+        "type": "string",
+        "length": 0,
+        "userInfo": "string",
+        "value": "string",
+        "createdAt": 0,
+        "updatedAt": 0
+      },
+      "type": "string",
+      "isValid": true,
+      "reasonCode": "string",
+      "userId": "string",
+      "deviceId": "string",
+      "deviceModel": "string",
+      "deviceMNO": "string"
+    }
+  ]
+}

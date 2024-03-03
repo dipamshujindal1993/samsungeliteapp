@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>630765790554-i1aq447vtsir4om1ue7rehbqvgjev0qa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.630765790554-i1aq447vtsir4om1ue7rehbqvgjev0qa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDaHgBqRaHEqyC8S0p0gukonRc0F6689Uk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>630765790554</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.samsung.carrier.elite</string>
+	<key>PROJECT_ID</key>
+	<string>proelite-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>proelite-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:630765790554:ios:1139513c769960f8</string>
+	<key>DATABASE_URL</key>
+	<string>https://proelite-dev.firebaseio.com</string>
+</dict>
+</plist>

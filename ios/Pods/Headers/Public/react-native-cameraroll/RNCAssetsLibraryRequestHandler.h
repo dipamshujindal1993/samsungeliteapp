@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-cameraroll/ios/RNCAssetsLibraryRequestHandler.h

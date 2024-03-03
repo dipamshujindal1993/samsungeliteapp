@@ -1,0 +1,42 @@
+[
+    {
+        "statusId": 1,
+        "statusText": "IMEI match",
+        "requireImei": true
+    },
+    {
+        "statusId": 2,
+        "statusText": "IMEI match but not Primary Device",
+        "requireImei": false
+    },
+    {
+        "statusId": 3,
+        "statusText": "IMEI match but device not functional",
+        "requireImei": false
+    },
+    {
+        "statusId": 4,
+        "statusText": "IMEI does not match but appears to be correct device",
+        "requireImei": true
+    },
+    {
+        "statusId": 5,
+        "statusText": "Phone reported as lost/stolen",
+        "requireImei": false
+    },
+    {
+        "statusId": 6,
+        "statusText": "Phone reported as never received",
+        "requireImei": false
+    },
+    {
+        "statusId": 7,
+        "statusText": "Phone Not available-reported as damaged/broken",
+        "requireImei": false
+    },
+    {
+        "statusId": 8,
+        "statusText": "Phone Not Available – Left at Home",
+        "requireImei": false
+    }
+]

@@ -1,0 +1,70 @@
+{
+    "communityId": "0",
+    "discussionId": "string",
+    "author": {
+        "userId": 0,
+        "fullName": "Joe Pavs",
+        "imgPath": "https://s3.amazonaws.com/proelite-client-static/img_force_bg.png"
+    },
+    "title": "Super Long Title Goes Here24",
+    "description": "{\"message\":\"testing\",\"images\":[{\"type\":\"video\",\"url\":\"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4\"},{\"type\":\"image\",\"url\":\"https://homepages.cae.wisc.edu/~ece533/images/airplane.png\"},{\"type\":\"video\",\"url\":\"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4\"},{\"type\":\"image\",\"url\":\"https://homepages.cae.wisc.edu/~ece533/images/airplane.png\"}]}",
+    "likeCount": 10,
+    "whoLiked": [
+        {
+            "userId": 0,
+            "fullName": "string",
+            "imgPath": "string"
+        }
+    ],
+    "repliesCount": 0,
+    "isActive": true,
+    "inactiveBasis": "DirectDeletion",
+    "lastLikedUser": "string",
+    "editedDate": "2020-01-30T10:28:16.691Z",
+    "editedBy": 0,
+    "socialObjectType": "All",
+    "attachments": [
+        "string"
+    ],
+    "flaggedBy": [
+        0
+    ],
+    "createdDate": "2020-01-30T10:28:16.691Z",
+    "replies": [
+        {
+            "id": "string",
+            "communityId": "string",
+            "socialObjectId": "string",
+            "parentPostId": "string",
+            "rootId": "string",
+            "authorId": 0,
+            "content": "string",
+            "likeCount": 0,
+            "repliesCount": 0,
+            "isActive": true,
+            "inactiveBasis": "DirectDeletion",
+            "lastLikedUser": 0,
+            "createdDate": "2020-01-30T10:28:16.691Z",
+            "createdBy": 0,
+            "editedDate": "2020-01-30T10:28:16.691Z",
+            "editedBy": 0,
+            "socialObjectType": "All",
+            "attachments": [
+                "string"
+            ],
+            "flaggedBy": [
+                0
+            ],
+            "hierarchyIDs": [
+                "string"
+            ],
+            "whoLiked": [
+                {
+                    "userId": 0,
+                    "fullName": "string",
+                    "imgPath": "string"
+                }
+            ]
+        }
+    ]
+}

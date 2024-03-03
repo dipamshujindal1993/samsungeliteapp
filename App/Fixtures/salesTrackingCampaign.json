@@ -1,0 +1,22 @@
+{
+  "pagination": {
+    "page": 0,
+    "pageSize": 0,
+    "totalCount": 0,
+    "totalPageCount": 0
+  },
+  "content": [
+    {
+      "campaignId": 0,
+      "title": "string",
+      "status": "closed",
+      "eligibleStatus": true,
+      "startDate": "string",
+      "endDate": "string",
+      "rewardType": "string",
+      "description": "string",
+      "eligibilityLink": "samsungelite://open#screen=ArticleDetailScreen?activityId=37367",
+      "acceptanceLink": "string"
+    }
+  ]
+}

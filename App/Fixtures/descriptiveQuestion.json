@@ -1,0 +1,20 @@
+{
+    "questionID": "42031",
+    "questionText": "what did you like about this course?",
+    "questionTextWithFormat": "what did you like about this course?",
+    "questionType": "Descriptive",
+    "questionSequenceId": "2",
+    "isMandatory": false,
+    "questionFeedback": "",
+    "isAnswered": false,
+    "options": [
+        {
+            "answerID": null,
+            "answerText": null,
+            "matchAnswerID": null,
+            "matchAnswerText": null,
+            "feedback": null
+        }
+    ],
+    "learnerAnswer": null
+}

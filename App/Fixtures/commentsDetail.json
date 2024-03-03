@@ -1,0 +1,204 @@
+{
+    "pagination": {
+        "page": 0,
+        "limit": 0,
+        "total": 0
+    },
+    "data": [
+        {
+            "id": "1",
+            "communityId": "string",
+            "socialObjectId": "string",
+            "parentPostId": "string",
+            "rootId": "string",
+            "userId": 0,
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor.",
+            "likeCount": 0,
+            "repliesCount": 0,
+            "isActive": true,
+            "inactiveBasis": "DirectDeletion",
+            "lastLikedUser": 0,
+            "createdDate": "2020-02-17T12:32:40.481Z",
+            "createdBy": 0,
+            "editedDate": "2020-02-17T12:32:40.481Z",
+            "editedBy": 0,
+            "socialObjectType": "All",
+            "author": {
+                "userId": 0,
+                "fullName": "By Jason Dee",
+                "imgPath": "https://s3.amazonaws.com/proelite-client-static/img_force_bg.png"
+            },
+            "flaggedBy": [
+                0
+            ],
+            "hierarchyIDs": [
+                "string"
+            ],
+            "whoLiked": [
+                {
+                    "userId": 0,
+                    "fullName": "string",
+                    "imgPath": "string"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "communityId": "string",
+            "socialObjectId": "string",
+            "parentPostId": "string",
+            "rootId": "string",
+            "userId": 0,
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor.",
+            "likeCount": 0,
+            "repliesCount": 0,
+            "isActive": true,
+            "inactiveBasis": "DirectDeletion",
+            "lastLikedUser": 0,
+            "createdDate": "2020-02-17T12:32:40.481Z",
+            "createdBy": 0,
+            "editedDate": "2020-02-17T12:32:40.481Z",
+            "editedBy": 0,
+            "socialObjectType": "All",
+            "author": {
+                "userId": 0,
+                "fullName": "By Huỳnh Quỳnh Nhung",
+                "imgPath": "https://homepages.cae.wisc.edu/~ece533/images/tulips.png"
+            },
+            "attachments": [
+                "string"
+            ],
+            "flaggedBy": [
+                0
+            ],
+            "hierarchyIDs": [
+                "string"
+            ],
+            "whoLiked": [
+                {
+                    "userId": 0,
+                    "fullName": "string",
+                    "imgPath": "string"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "communityId": "string",
+            "socialObjectId": "string",
+            "parentPostId": "string",
+            "rootId": "string",
+            "userId": 0,
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor.",
+            "likeCount": 0,
+            "repliesCount": 0,
+            "isActive": true,
+            "inactiveBasis": "DirectDeletion",
+            "lastLikedUser": 0,
+            "createdDate": "2020-02-17T12:32:40.481Z",
+            "createdBy": 0,
+            "editedDate": "2020-02-17T12:32:40.481Z",
+            "editedBy": 0,
+            "socialObjectType": "All",
+            "author": {
+                "userId": 0,
+                "fullName": "By Jafaris Long",
+                "imgPath": "https://s3.amazonaws.com/proelite-client-static/img_force_bg.png"
+            },
+            "attachments": "[{\"type\":\"video\",\"url\":\"http:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/ForBiggerBlazes.mp4\"},{\"type\":\"image\",\"url\":\"https:\/\/homepages.cae.wisc.edu\/~ece533\/images\/airplane.png\"},{\"type\":\"video\",\"url\":\"http:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/ForBiggerJoyrides.mp4\"},{\"type\":\"image\",\"url\":\"https:\/\/homepages.cae.wisc.edu\/~ece533\/images\/airplane.png\"}]",
+            "flaggedBy": [
+                0
+            ],
+            "hierarchyIDs": [
+                "string"
+            ],
+            "whoLiked": [
+                {
+                    "userId": 0,
+                    "fullName": "string",
+                    "imgPath": "string"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "communityId": "string",
+            "socialObjectId": "string",
+            "parentPostId": "string",
+            "rootId": "string",
+            "userId": 0,
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor.",
+            "likeCount": 0,
+            "repliesCount": 0,
+            "isActive": true,
+            "inactiveBasis": "DirectDeletion",
+            "lastLikedUser": 0,
+            "createdDate": "2020-02-17T12:32:40.481Z",
+            "createdBy": 0,
+            "editedDate": "2020-02-17T12:32:40.481Z",
+            "editedBy": 0,
+            "socialObjectType": "All",
+            "author": {
+                "userId": 0,
+                "fullName": "By Jessica Hische",
+                "imgPath": "https://s3.amazonaws.com/proelite-client-static/img_force_bg.png"
+            },
+            "attachments": [
+                "string"
+            ],
+            "flaggedBy": [
+                0
+            ],
+            "hierarchyIDs": [
+                "string"
+            ],
+            "whoLiked": [
+                {
+                    "userId": 0,
+                    "fullName": "string",
+                    "imgPath": "string"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "communityId": "string",
+            "socialObjectId": "string",
+            "parentPostId": "string",
+            "rootId": "string",
+            "userId": 0,
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor.",
+            "likeCount": 0,
+            "repliesCount": 0,
+            "isActive": true,
+            "inactiveBasis": "DirectDeletion",
+            "lastLikedUser": 0,
+            "createdDate": "2020-02-17T12:32:40.481Z",
+            "createdBy": 0,
+            "editedDate": "2020-02-17T12:32:40.481Z",
+            "editedBy": 0,
+            "socialObjectType": "All",
+            "author": {
+                "userId": 0,
+                "fullName": "By Benito Noboa",
+                "imgPath": "https://s3.amazonaws.com/proelite-client-static/img_force_bg.png"
+            },
+            "attachments": [
+                "string"
+            ],
+            "flaggedBy": [
+                0
+            ],
+            "hierarchyIDs": [
+                "string"
+            ],
+            "whoLiked": [
+                {
+                    "userId": 0,
+                    "fullName": "string",
+                    "imgPath": "string"
+                }
+            ]
+        }
+    ]
+}

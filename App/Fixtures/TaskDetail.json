@@ -1,0 +1,39 @@
+{
+    "taskImageUrl": "https://image.freepik.com/free-vector/technology-banner-background-with-hexagonal-shapes-text-space_1017-22589.jpg",
+    "taskTitle": "January Task",
+    "start_date": "2020-3-3T19: 41: 05.508Z",
+    "due_date": "2020-3-13T19: 41: 05.508Z",
+    "dynamic_html": "<html><body><p>Be <b>bold</b> in stating your key points. Put them in a list: </p><ul><li>The first item in your list</li><li>The second item; <i>italicize</i> key words</li></ul></body></html>",
+    "actions": [
+        {
+            "name": "UPLOAD_DOCUMENT",
+            "title": "Upload an item to a specific folder",
+            "description": "Lorem ipsum dolor sit amet, consecte adipiscing elit. Sed non feugiat est.",
+            "isComplete": false,
+            "isMediaUploaded": false,
+            "media": {
+                "url": "https://www.bigstockphoto.com/images/homepage/module-6.jpg",
+                "name": "20200101_123000.jpg",
+                "size": "1.8 MB"
+            }
+        },
+        {
+            "name": "COMMENT_ON_A_POST",
+            "title": "Comment on a post",
+            "description": "Lorem ipsum dolor sit amet, consecte adipiscing elit. Sed non feugiat est.",
+            "isComplete": false
+        },
+        {
+            "name": "COMPLETE_A_TRAINING",
+            "title": "Take Course",
+            "description": "Lorem ipsum dolor sit amet, consecte adipiscing elit. Sed non feugiat est.",
+            "isComplete": false
+        },
+        {
+            "name": "ADHOC_ACTION_WITH_USER_CONFIRMATION",
+            "title": "Custom Action",
+            "description": "Lorem ipsum dolor sit amet, consecte adipiscing elit. Sed non feugiat est.",
+            "isComplete": true
+        }
+    ]
+}

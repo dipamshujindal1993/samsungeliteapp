@@ -1,0 +1,30 @@
+{
+    "pollId": 37373,
+    "totalResponses": 1,
+    "questions": [
+        {
+            "questionId": 42021,
+            "questionText": "what did you like about the course?",
+            "questionTextWithFormat": "what did you like about the course?",
+            "questionType": "MultipleSelect",
+            "isMandatory": false,
+            "answers": [
+                {
+                    "answerId": 1,
+                    "answerText": "length of the course",
+                    "count": 0
+                },
+                {
+                    "answerId": 2,
+                    "answerText": "content of the course",
+                    "count": 0
+                },
+                {
+                    "answerId": 3,
+                    "answerText": "instructor",
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}

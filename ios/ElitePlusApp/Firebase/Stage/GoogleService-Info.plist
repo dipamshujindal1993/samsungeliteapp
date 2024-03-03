@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>602856977390-vve21bad87itjeeciqc9r8imvldj9n56.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.602856977390-vve21bad87itjeeciqc9r8imvldj9n56</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC7G2EIn982jlGPhkpof9I3c5GfggcsWD4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>602856977390</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.samsung.carrier.elite</string>
+	<key>PROJECT_ID</key>
+	<string>proelite-stage</string>
+	<key>STORAGE_BUCKET</key>
+	<string>proelite-stage.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:602856977390:ios:30d73125bfaba968d8d4ff</string>
+	<key>DATABASE_URL</key>
+	<string>https://proelite-stage.firebaseio.com</string>
+</dict>
+</plist>

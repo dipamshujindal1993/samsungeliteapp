@@ -1,0 +1,13 @@
+{
+  "result": "WINNING",
+  "prizes": [
+    {
+      "prizeId": 1,
+      "prizeDetailId": 1,
+      "name": "Prize_1",
+      "type": "PRODUCT",
+      "valueType": "CODE",
+      "value": "PRODUCT_001"
+    }
+  ]
+}

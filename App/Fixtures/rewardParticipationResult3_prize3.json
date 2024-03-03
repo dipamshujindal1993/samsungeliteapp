@@ -1,0 +1,13 @@
+{
+  "result": "WINNING",
+  "prizes": [
+    {
+      "prizeId": 3,
+      "prizeDetailId": 1,
+      "name": "Prize_3",
+      "type": "POINT",
+      "valueType": "CODE",
+      "value": "500"
+    }
+  ]
+}

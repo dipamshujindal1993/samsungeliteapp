@@ -1,0 +1,17 @@
+{
+  "userId": "621339",
+  "firstName": "Laurell",
+  "lastName": "Alves",
+  "fullName": "Laurell Alves",
+  "email": "email@company.com",
+  "role": "FSM",
+  "repCode": "2418",
+  "profilePicture": "",
+  "status": "NORMAL",
+  "registerDate": "2020-04-15T02:52:38.789Z",
+  "leaderBoard": {
+    "rank": 0,
+    "totalEarnPoint": 0,
+    "channelName": "string"
+  }
+}

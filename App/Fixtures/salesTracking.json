@@ -1,0 +1,39 @@
+{
+  "pagination": {
+    "page": 0,
+    "pageSize": 0,
+    "totalCount": 0,
+    "totalPageCount": 0
+  },
+  "campaignId": 0,
+  "filter": "total",
+  "lastUpdated": "2020-03-30T12:12:12Z",
+  "earned": 380,
+  "sold": 26,
+  "title": "Campaign Name",
+  "status": "open",
+  "startDate": "2020-02-12T12:12:12Z",
+  "endDate": "2020-04-22T22:22:20Z",
+  "rewardType": "points",
+  "description": "blah blah",
+  "eligibility_link": "samsungelite://open#screen=ArticleDetailScreen?activityId=37367",
+  "acceptance_link": "https://description.of.acceptance.com/howto",
+  "content": [
+    {
+      "deviceName": "NOTE 10",
+      "rewardValue": 300
+    },
+    {
+      "deviceName": "NOTE 4",
+      "rewardValue": 50
+    },
+    {
+      "deviceName": "NOTE 3",
+      "rewardValue": 200
+    },
+    {
+      "deviceName": "GRAND-2",
+      "rewardValue": 100
+    }
+  ]
+}

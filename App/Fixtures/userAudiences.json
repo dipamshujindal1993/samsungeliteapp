@@ -1,0 +1,31 @@
+{
+  "pagination": {
+    "offset": 0,
+    "limit": 0,
+    "total": 0
+  },
+  "data": [
+    {
+      "audienceId": 0,
+      "name": "string",
+      "description": "string",
+      "code": "string",
+      "optionalInfo": {
+        "optionalAudienceId": 0,
+        "text1": "string",
+        "text2": "string",
+        "text3": "string",
+        "text4": "string",
+        "dateTime1": "2019-11-18T20:52:42.536Z",
+        "dateTime2": "2019-11-18T20:52:42.536Z",
+        "currency": 0,
+        "money": 0,
+        "integer": 0,
+        "float": 0,
+        "memo": "string",
+        "yesNo": true,
+        "lastRefreshUTC": "2019-11-18T20:52:42.536Z"
+      }
+    }
+  ]
+}

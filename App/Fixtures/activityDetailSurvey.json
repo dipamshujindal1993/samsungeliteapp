@@ -1,0 +1,105 @@
+{
+  "activityId": "37378",
+  "activityType": "Polls or Surveys",
+  "activityName": "Check out the latest T-Mobile promos and offers.",
+  "activityCode": "string",
+  "assignmentStatus": "string",
+  "completionProgress": 0,
+  "expirationDetails": "string",
+  "activityDescription": "<header>\n      Lorem ipsum ...\n      </header>\n      <h1 id=\"top\">Links to Sections of The Same Page</h1>\n      <section>\n        <ul>\n          <!-- Link to every section in the page -->\n          <li><a href=\"elite_plus://openwebview#url=https://facebook.github.io/react-native/docs/scrollview\">#Open in Webview</a></li>\n      <li><a href=\"http://facebook.github.io/react-native/docs/scrollview\">#Open Http in Webview</a></li>\n   <li><a href=\"https://facebook.github.io/react-native/docs/scrollview\">#Open Https in Webview</a></li>\n     <li><a href=\"elite_plus://openexternal#url=https://facebook.github.io/react-native/docs/scrollview\">#Open in External</a></li>\n       <li><a href=\"elite_plus://open#screen=Help\">#Open App Screen</a></li>\n    </ul>\n      </section>\n\n      <section id=\"section1\">\n        <h3>(#section1) Section 1</h3>\n        <p>Lorem ipsum ...</p>\n      </section>\n\n      <section id=\"section2\">\n        <h3>(#section2) Section 2</h3>\n        <p>Lorem ipsum ...</p>\n        </section>\n        <section id=\"section3\">\n        <h3>(#section3) Section 3</h3>\n        <p>Lorem ipsum ...</p>\n        </section>\n        <section id=\"section4\">\n        <h2>(#section4) Section 4</h2>\n        <p>Lorem ipsum ...</p>\n        </section>\n        <section id=\"section5\">\n        <h2>(#section5) Section 5</h2>\n        <section id=\"section1\">\n        <h3>(#section1) Section 1</h3>\n        <p>Lorem ipsum ...</p>\n      </section>\n\n      <section id=\"section2\">\n        <h3>(#section2) Section 2</h3>\n        <p>Lorem ipsum ...</p>\n        </section>\n        <section id=\"section3\">\n        <h3>(#section3) Section 3</h3>\n        <p>Lorem ipsum ...</p>\n        </section>\n        <section id=\"section4\">\n        <h2>(#section4) Section 4</h2>\n        <p>Lorem ipsum ...</p>\n        </section>\n        <section id=\"section5\">\n        <h2>(#section5) Section 5</h2>\n        <section id=\"section1\">\n        <h3>(#section1) Section 1</h3>\n        <p>Lorem ipsum ...</p>\n      </section>\n\n      <section id=\"section2\">\n        <h3>(#section2) Section 2</h3>\n        <p>Lorem ipsum ...</p>\n        </section>\n        <section id=\"section3\">\n        <h3>(#section3) Section 3</h3>\n        <p>Lorem ipsum ...</p>\n        </section>\n        <section id=\"section4\">\n        <h2>(#section4) Section 4</h2>\n        <p>Lorem ipsum ...</p>\n        </section>\n        <section id=\"section5\">\n        <h2>(#section5) Section 5</h2>\n        <section id=\"section1\">\n        <h3>(#section1) Section 1</h3>\n        <p>Lorem ipsum ...</p>\n      </section>\n\n      <section id=\"section2\">\n        <h3>(#section2) Section 2</h3>\n        <p>Lorem ipsum ...</p>\n        </section>\n        <section id=\"section3\">\n        <h3>(#section3) Section 3</h3>\n        <p>Lorem ipsum ...</p>\n        </section>\n        <section id=\"section4\">\n        <h2>(#section4) Section 4</h2>\n        <p>Lorem ipsum ...</p>\n        </section>\n        <section id=\"section5\">\n        <h2>(#section5) Section 5</h2>\n        <p>Lorem ipsum ...</p>\n        <p>\n          <a href=\"#top\">Back to Page Heading</a> or\n          <a href=\"#\">Back to Top of Page</a>\n        </p>\n      </section>",
+  "startDate": "2019-12-27T06:56:55.637Z",
+  "endDate": "2019-12-27T06:56:55.637Z",
+  "registrationDeadline": "2019-12-27T06:56:55.637Z",
+  "cancellationDeadline": "2019-12-27T06:56:55.637Z",
+  "estimatedCost": 0,
+  "estimatedDuration": 0,
+  "activityStatus": "string",
+  "locations": [
+    "string"
+  ],
+  "instructors": [
+    "string"
+  ],
+  "launchUrl": "string",
+  "trainingOrganization": "string",
+  "deliveryMethod": "string",
+  "contact": "string",
+  "owner": "string",
+  "language": "string",
+  "contentType": "string",
+  "mediaType": "string",
+  "prerequisite-Activities": [
+    {
+      "activityId": "string",
+      "activityName": "string",
+      "activityType": "string"
+    }
+  ],
+  "userNotes": "string",
+  "certificationDetails": "string",
+  "creditHours": 0,
+  "libraryDetails": [
+    "string"
+  ],
+  "instructorNotes": "string",
+  "skillsAndCompetencies": [
+    "string"
+  ],
+  "fulfillmentActivities": [
+    {
+      "activityId": "string",
+      "activityName": "string",
+      "activityType": "string"
+    }
+  ],
+  "pointsRange": {
+    "min": 0,
+    "max": 1000
+  },
+  "progressDetails": {
+    "elapsedSeconds": 0,
+    "percentageCompletion": 0,
+    "contentTypeName": "string",
+    "firstLaunchDate": "2019-12-27T06:56:55.637Z",
+    "score": 0,
+    "registrationStatus": 0,
+    "triesCount": 0,
+    "attemptsCount": 0,
+    "attemptId": 0,
+    "currentAttemptId": 0,
+    "scormDetails": [
+      {
+        "studyPlanItemId": "string",
+        "treeLevel": 0,
+        "completionDate": "2019-12-27T06:56:55.637Z",
+        "title": "string",
+        "status": "string",
+        "topicTime": 0,
+        "percentage": 0,
+        "objectives": 0,
+        "interactions": 0,
+        "passFail": "string"
+      }
+    ],
+    "lastViewedScormPackageId": "string",
+    "totalQuestionsCount": 0,
+    "answeredQuestionsCount": 0
+  },
+  "activityOptionalFields": {
+    "optionalText1": "string",
+    "optionalText2": "string",
+    "optionalText3": "string",
+    "optionalText4": "string",
+    "optionalMemo1": "string",
+    "optionalDate1": "string",
+    "optionalDate2": "string",
+    "optionalYesNo": "string",
+    "optionalMoney": 0,
+    "optionalInteger": 0,
+    "optionalFloat": 0,
+    "optionalCurrencyId": 0,
+    "optionalCurrency": "string"
+  },
+  "isRegistered": false,
+  "activityImageUrl": "https://s3.amazonaws.com/proelite-client-static/img_force_bg.png"
+}

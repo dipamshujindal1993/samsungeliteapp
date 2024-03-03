@@ -1,0 +1,93 @@
+{
+    "Items": [
+      {
+        "Id": 22,
+        "Name": "Sam Lee",
+        "Location": "string",
+        "Status": "Scheduled",
+        "Email": "123@mail.com",
+        "Phone": "1234234562",
+        "persona": "string",
+        "UniqueId": "77",
+        "interestedProducts": [
+          "S20 5G"
+        ],
+        "createdDate": "2020-04-09T05:38:06.802Z",
+        "RelativeDate": "string",
+        "AssignedTo": "string",
+        "TotalCount": 0
+      },
+      {
+        "Id": 1,
+        "Name": "Sam Lee",
+        "Location": "string",
+        "Status": "Open",
+        "Email": "123@mail.com",
+        "Phone": "1234234562",
+        "persona": "string",
+        "UniqueId": "66",
+        "interestedProducts": [
+          "S20 5G"
+        ],
+        "createdDate": "2020-04-09T05:38:06.802Z",
+        "RelativeDate": "string",
+        "AssignedTo": "string",
+        "TotalCount": 0
+      },
+      {
+        "Id": 2,
+        "Name": "Sam Lee",
+        "Location": "string",
+        "Status": "Closed",
+        "Email": "123@mail.com",
+        "Phone": "1234234562",
+        "persona": "string",
+        "UniqueId": "55",
+        "interestedProducts": [
+          "S20 5G"
+        ],
+        "createdDate": "2020-04-09T05:38:06.802Z",
+        "RelativeDate": "string",
+        "AssignedTo": "string",
+        "TotalCount": 0
+      },
+      {
+        "Id": 3,
+        "Name": "Sam Lee",
+        "Location": "string",
+        "Status": "Contacted",
+        "Email": "123@mail.com",
+        "Phone": "1234234562",
+        "persona": "string",
+        "UniqueId": "44",
+        "interestedProducts": [
+          "S20 5G"
+        ],
+        "createdDate": "2020-04-09T05:38:06.802Z",
+        "RelativeDate": "string",
+        "AssignedTo": "string",
+        "TotalCount": 0
+      },
+      {
+        "Id": 4,
+        "Name": "Sam Lee",
+        "Location": "string",
+        "Status": "Closed - No Response",
+        "Email": "123@mail.com",
+        "Phone": "1234234562",
+        "persona": "string",
+        "UniqueId": "33",
+        "interestedProducts": [
+          "S20 5G"
+        ],
+        "createdDate": "2020-04-09T05:38:06.802Z",
+        "RelativeDate": "string",
+        "AssignedTo": "string",
+        "TotalCount": 0
+      }
+    ],
+    "PageSize": 0,
+    "PageNumber": 0,
+    "PageCount": 0,
+    "Total": 0
+  }

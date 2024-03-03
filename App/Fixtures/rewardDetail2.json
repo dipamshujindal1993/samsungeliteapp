@@ -1,0 +1,32 @@
+{
+  "rewardId": 2,
+  "title": "SWEEPSTAKES_01",
+  "description": "SWEEPSTAKES Description ",
+  "type": "SWEEPSTAKES",
+  "requiredPoint": 150,
+  "imageUrl": "",
+  "availability": true,
+  "externalUrl": "string",
+  "termsAndConditionUrl": "string",
+  "status": "CLOSED",
+  "warnFlags": {
+    "lastChance": false,
+    "limited": false,
+    "outOfStock": false
+  },
+  "rewardPrizes": [
+    {
+      "prizeComposition": "PRIZE",
+      "prizes": [
+        {
+          "prizeId": 1,
+          "name": "name1",
+          "type": "PRODUCT",
+          "arv": 300,
+          "stock": 500,
+          "remainStock": 490
+        }
+      ]
+    }
+  ]
+}

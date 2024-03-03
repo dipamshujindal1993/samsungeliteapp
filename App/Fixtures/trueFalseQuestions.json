@@ -1,0 +1,35 @@
+{
+    "questionID": "42018",
+    "questionText": "What year is this?",
+    "questionTextWithFormat": "What year is this?",
+    "questionType": "TrueFalse",
+    "questionSequenceId": "1",
+    "isMandatory": false,
+    "questionFeedback": "Testing your IQ&nbsp;",
+    "isAnswered": false,
+    "options": [
+        {
+            "answerID": [
+                "1"
+            ],
+            "answerText": [
+                "False"
+            ],
+            "matchAnswerID": "False",
+            "matchAnswerText": null,
+            "feedback": "think again"
+        },
+        {
+            "answerID": [
+                "2"
+            ],
+            "answerText": [
+                "True"
+            ],
+            "matchAnswerID": "True",
+            "matchAnswerText": null,
+            "feedback": "you are a genius"
+        }
+    ],
+    "learnerAnswer": null
+}

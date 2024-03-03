@@ -1,0 +1,29 @@
+{
+    "list": [
+        {
+            "name": "Elite+ Terms and Conditions",
+            "description": "Terms and Conditions",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo.",
+            "hash": "string",
+            "isEnabled": true,
+            "isDeleted": true,
+            "isSignatureEnabled": true,
+            "reatTestEnabled": true,
+            "createdTime": "string",
+            "createdBy": "string",
+            "modifiedTime": "string",
+            "modifiedBy": "string",
+            "mustAttestonTextChange": true,
+            "allusers": true,
+            "criteria": [
+                {
+                    "criteriaXml": {
+                        "criteriaXmlString": {},
+                        "recurranceInterval": 0
+                    },
+                    "criteriaType": "string"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+  "pagination": {
+    "page": 1,
+    "pageSize": 30,
+    "totalCount": 30,
+    "totalPageCount": 1
+  },
+  "content": [
+    {
+      "spotRewardId": 1,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 100
+    },
+    {
+      "spotRewardId": 2,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 200
+    },
+    {
+      "spotRewardId": 3,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 300
+    },
+    {
+      "spotRewardId": 4,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 400
+    },
+    {
+      "spotRewardId": 5,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 500
+    },
+    {
+      "spotRewardId": 6,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 600
+    },
+    {
+      "spotRewardId": 7,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 700
+    },
+    {
+      "spotRewardId": 8,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 800
+    },
+    {
+      "spotRewardId": 9,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 900
+    },
+    {
+      "spotRewardId": 10,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 1000
+    },
+    {
+      "spotRewardId": 11,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 2000
+    },
+    {
+      "spotRewardId": 12,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 2500
+    },
+    {
+      "spotRewardId": 13,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 2500
+    },
+    {
+      "spotRewardId": 14,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 2500
+    },
+    {
+      "spotRewardId": 15,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 2500
+    },
+    {
+      "spotRewardId": 16,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 4000
+    },
+    {
+      "spotRewardId": 17,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 5000
+    },
+    {
+      "spotRewardId": 18,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 5000
+    },
+    {
+      "spotRewardId": 19,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 5500
+    },
+    {
+      "spotRewardId": 20,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 6000
+    },
+    {
+      "spotRewardId": 21,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 7000
+    },
+    {
+      "spotRewardId": 22,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 7500
+    },
+    {
+      "spotRewardId": 23,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 8000
+    },
+    {
+      "spotRewardId": 24,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 9000
+    },
+    {
+      "spotRewardId": 25,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 10000
+    },
+    {
+      "spotRewardId": 26,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 12000
+    },
+    {
+      "spotRewardId": 27,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 20000
+    },
+    {
+      "spotRewardId": 28,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 50000
+    },
+    {
+      "spotRewardId": 29,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 100000
+    },
+    {
+      "spotRewardId": 30,
+      "title": "Spot Reward Item",
+      "description": "Real time, observed Samsung conversion sale - Welcoming a customer into the Family",
+      "point": 200000
+    }
+  ]
+}

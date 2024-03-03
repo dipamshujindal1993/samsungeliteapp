@@ -1,0 +1,57 @@
+{
+    "questionID": "42032",
+    "questionText": "rank the  numbers high to low",
+    "questionTextWithFormat": "<div style=\"text-align: left;\"><span style=\"font-size: 0.875rem;\">rank the&nbsp; numbers high to low</span></div>",
+    "questionType": "Ranking",
+    "questionSequenceId": "4",
+    "isMandatory": false,
+    "questionFeedback": "",
+    "isAnswered": false,
+    "options": [
+        {
+            "answerID": [
+                "1"
+            ],
+            "answerText": [
+                "2020"
+            ],
+            "matchAnswerID": null,
+            "matchAnswerText": null,
+            "feedback": null
+        },
+        {
+            "answerID": [
+                "2"
+            ],
+            "answerText": [
+                "2019"
+            ],
+            "matchAnswerID": null,
+            "matchAnswerText": null,
+            "feedback": null
+        },
+        {
+            "answerID": [
+                "3"
+            ],
+            "answerText": [
+                "2018"
+            ],
+            "matchAnswerID": null,
+            "matchAnswerText": null,
+            "feedback": null
+        },
+        {
+            "answerID": [
+                "4"
+            ],
+            "answerText": [
+                "2017"
+            ],
+            "matchAnswerID": null,
+            "matchAnswerText": null,
+            "feedback": null
+        }
+    ],
+    "learnerAnswer": null
+}

@@ -1,0 +1,52 @@
+{
+    "childActivities": [
+        {
+            "activityId": "88405",
+            "activityName": "Add an accessory to their cart 1",
+            "activityImageUrl": "https://s3.amazonaws.com/proelite-client-static/img_force_bg.png",
+            "activityDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "activityType": "string",
+            "isRegistered": false,
+            "status": "string",
+            "isCompleted": false,
+            "cbtPath": "string",
+            "launchUrl": "string"
+        },
+        {
+            "activityId": "88406",
+            "activityName": "Add an accessory to their cart 2",
+            "activityImageUrl": "https://s3.amazonaws.com/proelite-client-static/img_force_bg.png",
+            "activityDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "activityType": "string",
+            "isRegistered": true,
+            "status": "string",
+            "isCompleted": true,
+            "cbtPath": "string",
+            "launchUrl": "string"
+        },
+        {
+            "activityId": "88407",
+            "activityName": "Add an accessory to their cart 3",
+            "activityImageUrl": "https://s3.amazonaws.com/proelite-client-static/img_force_bg.png",
+            "activityDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "activityType": "string",
+            "isRegistered": true,
+            "status": "string",
+            "isCompleted": false,
+            "cbtPath": "string",
+            "launchUrl": "string"
+        },
+        {
+            "activityId": "88408",
+            "activityName": "Add an accessory to their cart 4",
+            "activityImageUrl": "https://s3.amazonaws.com/proelite-client-static/img_force_bg.png",
+            "activityDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "activityType": "string",
+            "isRegistered": true,
+            "status": "string",
+            "isCompleted": true,
+            "cbtPath": "string",
+            "launchUrl": "string"
+        }
+    ]
+}

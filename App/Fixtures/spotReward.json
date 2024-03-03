@@ -1,0 +1,23 @@
+{
+    "results": [
+        {
+            "id": "1",
+            "title": "This is one line title example",
+            "description": "On Nov. 9, 2002, Kentucky celebrates prematurely, and some more text goes after…",
+            "read": false,
+            "event": "prize_won",
+            "message": {
+                "data": {
+                    "event": "prize_won",
+                    "url":"samsungelite://open#screen=RedemptionScreen&rewardId=3"
+                },
+                "notification": {
+                    "body": "Tap here to redeem your [prize_name]",
+                    "title": "You won a prize!"
+                }
+            },
+            "date_created": "2020-02-05T12:58:51.234Z"
+        }
+    ]
+}
+        

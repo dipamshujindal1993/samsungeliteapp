@@ -1,0 +1,180 @@
+{
+    "page": 1,
+    "more": true,
+    "results": [
+        {
+            "id": "1",
+            "title": "Mission Assigned",
+            "description": "On Nov. 9, 2002, Kentucky celebrates prematurely, and some more text goes after…",
+            "read": false,
+            "event": "mission_assigned",
+            "message": {
+                "data": {
+                    "event": "prize_won",
+                    "url":"samsungelite://open#screen=RedemptionScreen&rewardId=3"
+                },
+                "notification": {
+                    "body": "Tap here to redeem your [prize_name]",
+                    "title": "You won a prize!"
+                }
+            },
+            "date_created": "2020-02-05T12:58:51.234Z"
+        },
+        {
+            "id": "2",
+            "title": "Your Mission Due",
+            "description": "On Nov. 9, 2002, Kentucky celebrates prematurely, and some more text goes after…",
+            "read": false,
+            "event": "mission_due",
+            "message": {
+                "data": {
+                    "event": "prize_won",
+                    "url":"samsungelite://open#screen=RedemptionScreen&rewardId=3"
+                },
+                "notification": {
+                    "body": "Tap here to redeem your [prize_name]",
+                    "title": "You won a prize!"
+                }
+            },
+            "date_created": "2020-02-05T12:58:51.234Z"
+        },
+        {
+            "id": "3",
+            "title": "TBD",
+            "description": "Campaign title",
+            "read": false,
+            "event": "campaign",
+            "message": {
+                "data": {
+                    "event": "campaign"
+                },
+                "notification": {
+                    "body": "Campaign title",
+                    "title": "TBD"
+                }
+            },
+            "date_created": "2020-02-05T12:58:51.234Z"
+        },
+        {
+            "id": "4",
+            "title": "TBD",
+            "description": "Campaign title",
+            "read": false,
+            "event": "campaign",
+            "message": {
+                "data": {
+                    "event": "campaign",
+                    "url":"samsungelite://open#screen=RedemptionScreen&rewardId=3"
+                },
+                "notification": {
+                    "body": "Campaign title",
+                    "title": "TBD"
+                }
+            },
+            "date_created": "2020-02-05T12:58:51.234Z"
+        },
+        {
+            "id": "5",
+            "title": "New Reward Added",
+            "description": "Reward title",
+            "read": false,
+            "event": "new_reward_added",
+            "message": {
+                "data": {
+                    "event": "new_reward_added",
+                    "url":"samsungelite://open#screen=RewardDetailScreen&rewardId=1"
+                },
+                "notification": {
+                    "body": "Reward title",
+                    "title": "New Reward Added"
+                }
+            },
+            "date_created": "2020-02-05T12:58:51.234Z"
+        },
+        {
+            "id": "6",
+            "title": "This is one line title example",
+            "description": "On Nov. 9, 2002, Kentucky celebrates prematurely, and some more text goes after…",
+            "read": true,
+            "event": "prize_won",
+            "message": {
+                "data": {
+                    "event": "prize_won"
+                },
+                "notification": {
+                    "body": "Tap here to redeem your [prize_name]",
+                    "title": "You won a prize!"
+                }
+            },
+            "date_created": "2020-02-05T12:58:51.234Z"
+        },
+        {
+            "id": "7",
+            "title": "This is one line title example",
+            "description": "On Nov. 9, 2002, Kentucky celebrates prematurely, and some more text goes after…",
+            "read": true,
+            "event": "prize_won",
+            "message": {
+                "data": {
+                    "event": "prize_won"
+                },
+                "notification": {
+                    "body": "Tap here to redeem your [prize_name]",
+                    "title": "You won a prize!"
+                }
+            },
+            "date_created": "2020-02-05T12:58:51.234Z"
+        },
+        {
+            "id": "8",
+            "title": "This is one line title example",
+            "description": "On Nov. 9, 2002, Kentucky celebrates prematurely, and some more text goes after…",
+            "read": true,
+            "event": "prize_won",
+            "message": {
+                "data": {
+                    "event": "prize_won"
+                },
+                "notification": {
+                    "body": "Tap here to redeem your [prize_name]",
+                    "title": "You won a prize!"
+                }
+            },
+            "date_created": "2020-02-05T12:58:51.234Z"
+        },
+        {
+            "id": "9",
+            "title": "This is one line title example",
+            "description": "On Nov. 9, 2002, Kentucky celebrates prematurely, and some more text goes after…",
+            "read": true,
+            "event": "prize_won",
+            "message": {
+                "data": {
+                    "event": "prize_won"
+                },
+                "notification": {
+                    "body": "Tap here to redeem your [prize_name]",
+                    "title": "You won a prize!"
+                }
+            },
+            "date_created": "2020-02-05T12:58:51.234Z"
+        },
+        {
+            "id": "10",
+            "title": "This is one line title example",
+            "description": "On Nov. 9, 2002, Kentucky celebrates prematurely, and some more text goes after…",
+            "read": true,
+            "event": "prize_won",
+            "message": {
+                "data": {
+                    "event": "prize_won"
+                },
+                "notification": {
+                    "body": "Tap here to redeem your [prize_name]",
+                    "title": "You won a prize!"
+                }
+            },
+            "date_created": "2020-02-05T12:58:51.234Z"
+        }
+    ]
+}

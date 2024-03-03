@@ -1,0 +1,59 @@
+{
+    "pagination": {
+      "offset": 0,
+      "limit": 10,
+      "total": 1
+    },
+    "data": [
+      {
+        "organizationId": 545153,
+        "orgDomainInd": false,
+        "hierarchyId": 18,
+        "contactUserId": 0,
+        "name": "2460 E CHARLESTON RD",
+        "orgTypeCode": null,
+        "personCount": 0,
+        "code": "sea_org_1045",
+        "contactEmail": null,
+        "parentOrganizationName": "SF BAY, CA (NR)",
+        "childOrgsCount": 0,
+        "pageNum": 0,
+        "orgPlaceHolder": false,
+        "depth": 0,
+        "optionalInfo": {
+          "text1": "",
+          "text2": "bullseye",
+          "text3": "",
+          "text4": "",
+          "text5": "",
+          "text6": "",
+          "text7": "",
+          "text8": "",
+          "text9": "",
+          "text10": "",
+          "text11": "",
+          "text12": "",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "date1": null,
+          "date2": null,
+          "integer1": 14,
+          "integer2": null,
+          "float1": null,
+          "float2": null,
+          "decimal1": null,
+          "decimal2": null,
+          "ind1": false,
+          "ind2": false,
+          "money1": null,
+          "money2": null,
+          "memo1": "",
+          "memo2": "",
+          "currencyId": 11,
+          "id": 0
+        },
+        "hierarchyName": "Samsung"
+      }
+    ]
+  }

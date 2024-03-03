@@ -1,0 +1,20 @@
+[
+    {
+        "deviceId" : 1, 
+        "deviceName" : "Note 10", 
+        "deviceProvider" : "T-mobile", 
+        "deviceImei" : "123456781256789" 
+    },
+    {
+        "deviceId" : 2, 
+        "deviceName" : "Note 8", 
+        "deviceProvider" : "T-mobile", 
+        "deviceImei" : "199256300256099" 
+    },
+    {
+        "deviceId" : 3, 
+        "deviceName" : "Note 7", 
+        "deviceProvider" : "T-mobile", 
+        "deviceImei" : "453002987611284" 
+    }
+]

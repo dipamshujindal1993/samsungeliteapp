@@ -1,0 +1,21 @@
+{
+    "app": "elite-service",
+    "node": "v10.15.3",
+    "version": "1.0.3",
+    "env": "stage",
+    "online": true,
+    "systems": [
+        {
+            "system": "database",
+            "online": true
+        },
+        {
+            "system": "cheil",
+            "online": true
+        },
+        {
+            "system": "sumtotal",
+            "online": true
+        }
+    ]
+}

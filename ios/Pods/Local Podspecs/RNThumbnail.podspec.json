@@ -1,0 +1,27 @@
+{
+  "name": "RNThumbnail",
+  "version": "1.1.3",
+  "summary": "Get thumbnail from local media.",
+  "description": "Get thumbnail from local media.",
+  "license": "MIT",
+  "authors": "Hau Vo <hau.vophuoc@gmail.com>",
+  "homepage": "https://github.com/phuochau/react-native-thumbnail/#readme",
+  "source": {
+    "git": "https://github.com/phuochau/react-native-thumbnail.git"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "preserve_paths": [
+    "README.md",
+    "package.json",
+    "index.js"
+  ],
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

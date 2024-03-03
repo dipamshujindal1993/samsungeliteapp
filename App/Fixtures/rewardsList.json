@@ -1,0 +1,166 @@
+{
+  "pagination": {
+    "page": 1,
+    "pageSize": 12,
+    "totalCount": 12,
+    "totalPageCount": 1
+  },
+  "content": [
+    {
+      "rewardId": 1,
+      "title": "REDEMPTION_01",
+      "description": "REDEMPTION_01 Description",
+      "type": "REDEMPTION",
+      "requiredPoint": 150,
+      "imageUrl": "https://",
+      "warnFlags": {
+        "lastChance": true,
+        "limited": false,
+        "outOfStock": false
+      }
+    },
+    {
+      "rewardId": 2,
+      "title": "SWEEPSTAKES_01",
+      "description": "SWEEPSTAKES_01 Description",
+      "type": "SWEEPSTAKES",
+      "requiredPoint": 150,
+      "imageUrl": "https://",
+      "warnFlags": {
+        "lastChance": false,
+        "limited": true,
+        "outOfStock": false
+      }
+    },
+    {
+      "rewardId": 3,
+      "title": "INSTANT_WHEEL_01",
+      "description": "INSTANT_WHEEL_01 Description",
+      "type": "INSTANT_WIN_WHEEL",
+      "requiredPoint": 100,
+      "imageUrl": "https://",
+      "warnFlags": {
+        "lastChance": false,
+        "limited": false,
+        "outOfStock": true
+      }
+    },
+    {
+      "rewardId": 4,
+      "title": "REDEMPTION_02",
+      "description": "REDEMPTION_02 Description",
+      "type": "REDEMPTION",
+      "requiredPoint": 150,
+      "imageUrl": "https://",
+      "warnFlags": {
+        "lastChance": true,
+        "limited": false,
+        "outOfStock": false
+      }
+    },
+    {
+      "rewardId": 5,
+      "title": "SWEEPSTAKES_02",
+      "description": "SWEEPSTAKES_02 Description",
+      "type": "SWEEPSTAKES",
+      "requiredPoint": 150,
+      "imageUrl": "https://",
+      "warnFlags": {
+        "lastChance": false,
+        "limited": true,
+        "outOfStock": false
+      }
+    },
+    {
+      "rewardId": 6,
+      "title": "INSTANT_WHEEL_02",
+      "description": "INSTANT_WHEEL_02 Description",
+      "type": "INSTANT_WIN_WHEEL",
+      "requiredPoint": 100,
+      "imageUrl": "https://",
+      "warnFlags": {
+        "lastChance": false,
+        "limited": false,
+        "outOfStock": true
+      }
+    },
+    {
+      "rewardId": 7,
+      "title": "REDEMPTION_03",
+      "description": "REDEMPTION_03 Description",
+      "type": "REDEMPTION",
+      "requiredPoint": 150,
+      "imageUrl": "https://",
+      "warnFlags": {
+        "lastChance": true,
+        "limited": false,
+        "outOfStock": false
+      }
+    },
+    {
+      "rewardId": 8,
+      "title": "SWEEPSTAKES_03",
+      "description": "SWEEPSTAKES_03 Description",
+      "type": "SWEEPSTAKES",
+      "requiredPoint": 150,
+      "imageUrl": "https://",
+      "warnFlags": {
+        "lastChance": false,
+        "limited": true,
+        "outOfStock": false
+      }
+    },
+    {
+      "rewardId": 9,
+      "title": "INSTANT_WHEEL_03",
+      "description": "INSTANT_WHEEL_03 Description",
+      "type": "INSTANT_WIN_WHEEL",
+      "requiredPoint": 100,
+      "imageUrl": "https://",
+      "warnFlags": {
+        "lastChance": false,
+        "limited": false,
+        "outOfStock": true
+      }
+    },
+    {
+      "rewardId": 10,
+      "title": "REDEMPTION_04",
+      "description": "REDEMPTION_04 Description",
+      "type": "REDEMPTION",
+      "requiredPoint": 150,
+      "imageUrl": "https://",
+      "warnFlags": {
+        "lastChance": true,
+        "limited": false,
+        "outOfStock": false
+      }
+    },
+    {
+      "rewardId": 11,
+      "title": "SWEEPSTAKES_04",
+      "description": "SWEEPSTAKES_04 Description",
+      "type": "SWEEPSTAKES",
+      "requiredPoint": 150,
+      "imageUrl": "https://",
+      "warnFlags": {
+        "lastChance": false,
+        "limited": true,
+        "outOfStock": false
+      }
+    },
+    {
+      "rewardId": 12,
+      "title": "INSTANT_WHEEL_04",
+      "description": "INSTANT_WHEEL_04 Description",
+      "type": "INSTANT_WIN_WHEEL",
+      "requiredPoint": 100,
+      "imageUrl": "https://",
+      "warnFlags": {
+        "lastChance": false,
+        "limited": false,
+        "outOfStock": true
+      }
+    }
+  ]
+}

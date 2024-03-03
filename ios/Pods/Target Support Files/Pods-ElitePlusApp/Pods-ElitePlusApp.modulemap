@@ -1,0 +1,6 @@
+module Pods_ElitePlusApp {
+  umbrella header "Pods-ElitePlusApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

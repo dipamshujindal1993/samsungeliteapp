@@ -1,0 +1,46 @@
+{
+    "questionID": "42019",
+    "questionText": "What year is this?",
+    "questionTextWithFormat": "What year is this?",
+    "questionType": "MultipleChoice",
+    "questionSequenceId": "1",
+    "isMandatory": false,
+    "questionFeedback": "Testing your IQ&nbsp;",
+    "isAnswered": false,
+    "options": [
+        {
+            "answerID": [
+                "1"
+            ],
+            "answerText": [
+                "2019"
+            ],
+            "matchAnswerID": "False",
+            "matchAnswerText": "2020",
+            "feedback": "think again"
+        },
+        {
+            "answerID": [
+                "2"
+            ],
+            "answerText": [
+                "2020"
+            ],
+            "matchAnswerID": "True",
+            "matchAnswerText": "2020",
+            "feedback": "you are a genius"
+        },
+        {
+            "answerID": [
+                "3"
+            ],
+            "answerText": [
+                "2021"
+            ],
+            "matchAnswerID": "False",
+            "matchAnswerText": "2020",
+            "feedback": "Slow down !"
+        }
+    ],
+    "learnerAnswer": null
+}

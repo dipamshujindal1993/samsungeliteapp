@@ -1,0 +1,136 @@
+{
+    "surveyId": 1,
+    "totalResponses": 0,
+    "questions": [
+        {
+            "questionId": 1,
+            "questionText": "string",
+            "questionType": "MultipleSelect",
+            "isMandatory": true,
+            "answers": [
+                {
+                    "answerId": 1,
+                    "answerText": "answerText 1",
+                    "count": 0
+                },
+                {
+                    "answerId": 2,
+                    "answerText": "answerText 2",
+                    "count": 0
+                },
+                {
+                    "answerId": 3,
+                    "answerText": "answerText 3",
+                    "count": 0
+                },
+                {
+                    "answerId": 4,
+                    "answerText": "answerText 4",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "questionId": 2,
+            "questionText": "string",
+            "questionType": "FillInBlank",
+            "isMandatory": true,
+            "answers": [
+                {
+                    "answerId": 1,
+                    "answerText": "answerText 1",
+                    "count": 0
+                },
+                {
+                    "answerId": 2,
+                    "answerText": "answerText 2",
+                    "count": 0
+                },
+                {
+                    "answerId": 3,
+                    "answerText": "answerText 3",
+                    "count": 0
+                },
+                {
+                    "answerId": 4,
+                    "answerText": "answerText 4",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "questionId": 3,
+            "questionText": "string",
+            "questionType": "Ranking",
+            "isMandatory": true,
+            "answers": [
+                {
+                    "answerId": 1,
+                    "answerText": "answerText 1",
+                    "count": 0
+                },
+                {
+                    "answerId": 2,
+                    "answerText": "answerText 2",
+                    "count": 0
+                },
+                {
+                    "answerId": 3,
+                    "answerText": "answerText 3",
+                    "count": 0
+                },
+                {
+                    "answerId": 4,
+                    "answerText": "answerText 4",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "questionId": 4,
+            "questionText": "string",
+            "questionType": "TrueFalse",
+            "isMandatory": true,
+            "answers": [
+                {
+                    "answerId": 1,
+                    "answerText": "True",
+                    "count": 0
+                },
+                {
+                    "answerId": 2,
+                    "answerText": "False",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "questionId": 5,
+            "questionText": "string",
+            "questionType": "MultipleChoice",
+            "isMandatory": true,
+            "answers": [
+                {
+                    "answerId": 1,
+                    "answerText": "answerText 1",
+                    "count": 0
+                },
+                {
+                    "answerId": 2,
+                    "answerText": "answerText 2",
+                    "count": 0
+                },
+                {
+                    "answerId": 3,
+                    "answerText": "answerText 3",
+                    "count": 0
+                },
+                {
+                    "answerId": 4,
+                    "answerText": "answerText 4",
+                    "count": 0
+                }
+            ]
+        }
+    ]
+}

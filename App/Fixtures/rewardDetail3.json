@@ -1,0 +1,58 @@
+{
+  "rewardId": 3,
+  "title": "Spin the Wheel!",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. \nVestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo. Vestibulum aliquam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+  "type": "INSTANT_WIN_WHEEL",
+  "requiredPoint": 100,
+  "imageUrl": "",
+  "availability": true,
+  "externalUrl": "string",
+  "termsAndConditionUrl": "string",
+  "status": "CLOSED",
+  "warnFlags": {
+    "lastChance": false,
+    "limited": false,
+    "outOfStock": false
+  },
+  "rewardPrizes": [
+    {
+      "prizeComposition": "PRIZE",
+      "prizes": [
+        {
+          "prizeId": 1,
+          "name": "Prize_1",
+          "type": "PRODUCT",
+          "arv": 60,
+          "stock": 20,
+          "remainStock": 10
+        }
+      ]
+    },
+    {
+      "prizeComposition": "PRIZE",
+      "prizes": [
+        {
+          "prizeId": 2,
+          "name": "Prize_2",
+          "type": "PRODUCT",
+          "arv": 60,
+          "stock": 20,
+          "remainStock": 10
+        }
+      ]
+    },
+    {
+      "prizeComposition": "PRIZE",
+      "prizes": [
+        {
+          "prizeId": 3,
+          "name": "Prize_3",
+          "type": "POINT",
+          "arv": 60,
+          "stock": 20,
+          "remainStock": 10
+        }
+      ]
+    }
+  ]
+}
